@@ -1,10 +1,8 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
-
 import CollectionsPageHero from "../components/collectionsPage/CollectionsPageHero";
 import CollectionCategory from "../components/collectionsPage/CollectionCategory";
 import CollectionsCTA from "../components/collectionsPage/CollectionsCTA";
-
 import kitchen from "../assets/images/collections/kitchen.jpg";
 import bath from "../assets/images/collections/bath.jpg";
 import living from "../assets/images/collections/living.jpg";
